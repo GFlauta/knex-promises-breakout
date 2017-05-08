@@ -1,0 +1,30 @@
+{
+  "name": "knex-promises-breakout",
+  "version": "1.0.0",
+  "description": "a starter express project to install and configure knex.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacmillercodes/knex-promises-breakout"
+  },
+  "keywords": [
+    "express",
+    "knex"
+  ],
+  "author": "Isaac Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacmillercodes/knex-promises-breakout/issues"
+  },
+  "homepage": "https://github.com/isaacmillercodes/knex-promises-breakout",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "knex": "^0.12.7",
+    "pg": "^6.1.2"
+  }
+}
